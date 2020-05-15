@@ -1,10 +1,10 @@
 package com.company;
 
 public enum Clients {
-    Krystyna(40000, "Jabłko"),
-    Jadwiga(3000, "Banana"),
-    Zygmunt(18000, "Marchewkę"),
-    Marcin(12000, "Ogórka");
+    Krystyna(40000, "Galaxy"),
+    Jadwiga(3000, "Seincento"),
+    Zygmunt(18000, "Tipo"),
+    Marcin(12000, "Fiesta");
 
     final private double moneys;
     final public String buyings;

@@ -17,7 +17,7 @@ public class Main {
         System.out.println("S-Max to: " + kind(Car.SMAX));
         System.out.println("Sharan to: " + kind(Car.SHARAN));
         System.out.println("Captivia to: " + kind(Car.CAPTIVIA));
-        System.out.println("Seicento to:" + kind(Car.SEICENTO));
+        System.out.println("Seicento to: " + kind(Car.SEICENTO));
         example();
         buy();
     }
